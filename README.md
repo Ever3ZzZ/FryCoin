@@ -1,0 +1,2 @@
+# FryCoin
+FryCoin_game
